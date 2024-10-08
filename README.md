@@ -1,7 +1,4 @@
-Compartilhar
 
-
-Você disse:
 # Portfólio de Maverick Martins
 
 Bem-vindo ao meu portfólio! Aqui você encontrará uma visão geral dos meus projetos, habilidades e experiências. Este portfólio foi desenvolvido para apresentar meu trabalho na área de desenvolvimento.
